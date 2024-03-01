@@ -5,3 +5,8 @@ body {
 body h1 {
     font-size: 25px;
 }
+
+html {
+    margin-left: 200px;
+    margin-right: 200px;
+}
